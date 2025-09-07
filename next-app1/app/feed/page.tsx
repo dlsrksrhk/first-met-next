@@ -1,4 +1,3 @@
-'use client';
 import {Suspense} from "react";
 import PostList from "@/components/PostList";
 import {readPostsAction} from "@/lib/actions/posts";
